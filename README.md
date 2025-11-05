@@ -1,8 +1,3 @@
 # moshixu.github.io
 
-
-# Welcome
-## pic 1 
-### pic 2 
-#### pic 3
-
+a test page running on my url, for my profilio. 
